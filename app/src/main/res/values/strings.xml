@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="username">your@email.com</string>
+    <string name="password">12-digit listing key</string>
+    <string name="nevermind">NEVERMIND</string>
+    <string name="edit">EDIT LISTING</string>
+    <string name="remove">REMOVE BIKE</string>
+</resources>
